@@ -21,6 +21,7 @@
 - [ ] Docker basics (run, compose, env, network) *(consigliato)* 
   - 📺 **Playlist: [Docker Rapido](https://www.youtube.com/playlist?list=PLoZNHBEyxFQEw0Zzxe-EGFppZrbqGXJdB)** 
   - **📺 Playlist: [Docker Desktop](https://www.youtube.com/playlist?list=PLoZNHBEyxFQFM-bBq4G0c8eZEQsUk95WB)**
+  - 📺 **Playlist: [Docker Compose](https://www.youtube.com/playlist?list=PLoZNHBEyxFQGlJtBsuee0j7_ySdQ5SiUP)**
 
 ---
 
